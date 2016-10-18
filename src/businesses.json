@@ -1,0 +1,25 @@
+[{
+    "category": "Retail",
+    "city": "Milwaukee",
+    "description": "Some random store that sells basic stuff",
+    "email": "kshaw@phocs.cz",
+    "phone": "1-(414)274-3262",
+    "state": "Wiscounsin",
+    "street_address": "856 Sheridan Terrace",
+    "years_in_business": 8,
+    "zipcode": "53324"
+},
+{
+    "category": "FastFood",
+    "city": "Compton",
+    "description": "Some random chicken spot",
+    "email": "Chicken@phocs.cz",
+    "phone": "1-(901)274-3262",
+    "state": "California",
+    "street_address": "856 Crenshaw Ave",
+    "years_in_business": 2,
+    "zipcode": "91210"
+}
+
+
+]
